@@ -80,7 +80,7 @@ investigation:                                       |  investigation:
 
 ⚠️ В отчет также необходимо добавить общий график с результатами всех исследований. ⚠️
 
-###### ОТЧЁТ ПО ЛАБОРАТОРНОЙ
+# ОТЧЁТ ПО ЛАБОРАТОРНОЙ
 
 | number exp    | Buffer Size   |  Direct Time  | Revercse Time | Random Time   |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -97,5 +97,11 @@ investigation:                                       |  investigation:
 | №11           | 16384         | 50622         | 53762         | 1692395       |
 | №12           | 32768         | 101006        | 107633        | 3993760       |
 | №13           | 65536         | 202556        | 215011        | 8859150       | 
+
+## Графики
+
+direct: https://user-images.githubusercontent.com/32385043/51125868-b70c9f80-1832-11e9-92bf-b8c3b4c82e99.png
+random: https://user-images.githubusercontent.com/32385043/51125881-c25fcb00-1832-11e9-925b-e3e56810b928.png
+reverse: https://user-images.githubusercontent.com/32385043/51125890-c986d900-1832-11e9-96df-28a28a011673.png
 
 
